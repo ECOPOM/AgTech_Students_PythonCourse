@@ -78,9 +78,10 @@ You can either decide to use [notebook](https://realpython.com/jupyter-notebook-
 **List of notebooks**
 | file | topic |
 |:---|---|
-|*0_ipynb_introduction.ipynb*| Introduction to notebooks and Native Python data structures |
+|*0_ipynb_introduction.ipynb*| Introduction to notebooks|
 |*1_native_python_data_structures.ipynb*| Introduction to native Python data structures |
-|*2_numpy.ipynb*| NumPy arrays |
-|*3_pandas.ipynb*| Pandas Dataframes |
-|*4_introduction_to_images.ipynb*| Image data introduction |
+|*2_python_operators.ipynb*| python operators |
+|*3_numpy.ipynb*| NumPy arrays |
+|*4_pandas.ipynb*| Pandas Dataframes |
+|*5_introduction_to_images.ipynb*| Image data introduction |
 
