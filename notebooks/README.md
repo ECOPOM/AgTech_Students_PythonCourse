@@ -1,0 +1,3 @@
+|AUTHOR | who is the author|
+|:---: | :---|
+| ![mirko-piani](../docs/.readme_images/mirko_piani.png) | **MIRKO PIANI** has a BSc in *Agricultural Sciences* and an MSc in *Precise and Sustainable Agriculture* at the University of Bologna (Italy). He enrolled as a PhD student in 2022 at the same univeristy. His research has the purpose of developing within the ECOPOM lab the *"Geospatial assessment of fruit growth and quality through the implementation of a computer vision system"*. **His main programming language is Python since 2019**.|

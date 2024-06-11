@@ -1,3 +1,5 @@
 venv/
 .venv/
+docs/resources/
+
 TODOs.md
