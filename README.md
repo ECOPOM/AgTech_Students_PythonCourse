@@ -95,13 +95,14 @@ You can either decide to use [notebook](https://realpython.com/jupyter-notebook-
 ![jupyer-plugin](docs/.readme_images/vscode-jupyter-plugin.png)
 
 
-**List of notebooks**
+# Tbale of contents
 | file | topic |
 |:---|---|
-|*0_ipynb_introduction.ipynb*| Introduction to notebooks|
-|*1_native_python_data_structures.ipynb*| Introduction to native Python data structures |
-|*2_python_operators.ipynb*| Python operators: arithmentical, logical, comparative, bitwise, assignment, special |
-|*3_numpy.ipynb*| NumPy arrays |
-|*4_pandas.ipynb*| Pandas Dataframes |
-|*5_introduction_to_images.ipynb*| Image data introduction |
+|[*0_ipynb_introduction.ipynb*](notebooks/0_ipynb_introduction.ipynb)| Introduction to notebooks|
+|[*1_native_python_data_structures.ipynb*](notebooks/1_native_python_data_structures.ipynb)| Introduction to native Python data structures |
+|[*1.0.1_choosing_numerical_dtypes.ipynb*](notebooks/1.0.1_choosing_numerical_dtypes.ipynb)| How to identify the proper numerical `dtype` |
+|[*2_python_operators.ipynb*](notebooks/2_python_operators.ipynb)| Python operators: arithmentical, logical, comparative, bitwise, assignment, special |
+|[*3_numpy.ipynb*](notebooks/3_numpy.ipynb)| NumPy arrays |
+|[*4_pandas.ipynb*](notebooks/4_pandas.ipynb)| Pandas Dataframes |
+|[*5_introduction_to_images.ipynb*]()| Image data introduction |
 
