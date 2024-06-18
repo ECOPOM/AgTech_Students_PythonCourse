@@ -98,11 +98,11 @@ You can either decide to use [notebook](https://realpython.com/jupyter-notebook-
 # Tbale of contents
 | file | topic |
 |:---|---|
-|[*0_ipynb_introduction.ipynb*](notebooks/0_ipynb_introduction.ipynb)| Introduction to notebooks|
-|[*1_native_python_data_structures.ipynb*](notebooks/1_native_python_data_structures.ipynb)| Introduction to Python variables and native data structures |
-|[*101_choosing_numerical_dtypes.ipynb*](notebooks/101_choosing_numerical_dtypes.ipynb)| How to identify the proper numerical `dtype` |
-|[*2_python_operators.ipynb*](notebooks/2_python_operators.ipynb)| Python operators: arithmentical, logical, comparative, bitwise, assignment, special |
-|[*3_numpy.ipynb*](notebooks/3_numpy.ipynb)| NumPy arrays |
-|[*4_pandas.ipynb*](notebooks/4_pandas.ipynb)| Pandas Dataframes |
-|[*5_introduction_to_images.ipynb*]()| Image data introduction |
+|[*00_ipynb_introduction.ipynb*](notebooks/00_ipynb_introduction.ipynb)| Introduction to notebooks|
+|[*01_native_python_data_structures.ipynb*](notebooks/01_native_python_data_structures.ipynb)| Introduction to Python variables and native data structures |
+|[*01_01_choosing_numerical_dtypes.ipynb*](notebooks/01_01_choosing_numerical_dtypes.ipynb)| How to identify the proper numerical `dtype` |
+|[*02_python_operators.ipynb*](notebooks/02_python_operators.ipynb)| Python operators: arithmentical, logical, comparative, bitwise, assignment, special |
+|[*03_numpy.ipynb*](notebooks/03_numpy.ipynb)| NumPy arrays |
+|[*04_pandas.ipynb*](notebooks/04_pandas.ipynb)| Pandas Dataframes |
+|[*05_introduction_to_images.ipynb*](notebooks/05_image_data_introduction.ipynb)| Image data introduction |
 
